@@ -1,4 +1,4 @@
-// Callback data used by frontend page
+// 前端页面使用的回调数据
 interface CallbackData {
     access_token?: string;
     refresh_token?: string;
